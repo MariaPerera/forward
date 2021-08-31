@@ -123,11 +123,13 @@ bash start.sh jupyter /path/to/dir
 
 ### 12. open your browser in local machine and type  
 
-if your port is 51888, then
+if your port is 51888, then type in your browser
 ```
 http://localhost:51888/
 ```
-here is my jupyter lab computing environment. Have fun!
+Following, copy the token from the URL printed in the shell and paste it into the browser to set up a password.
+
+Here is my jupyter lab computing environment. Have fun!
 
 
 ### 13. Resume a session
